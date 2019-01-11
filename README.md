@@ -17,6 +17,10 @@ This sample demonstrates a microprofile rest client configuration using a simple
 ## Prerequisite:
 	Ensure that the simple JAX-RS Restful web service sample above has been installed and that the server at localhost:9080 is currently running
 
+## Navigate to the sample-rest-lillibrary directory
+	cd sample-mprestclient-lillibrary
+
+
 ## Start the OpenLiberty server
     mvn clean package liberty:run-server
 
