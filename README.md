@@ -9,7 +9,7 @@ This sample application is a simple JAX-RS Restful web service.
     mvn clean package liberty:run-server
 
 ## Run microprofile Open API to test the application 
-    http://localhost:9080/openaip/ui/
+    http://localhost:9080/openapi/ui/
 
 ## Optional:  Continue and exectute the microprofile rest client 
 This sample demonstrates a microprofile rest client configuration using a simple JAX-RS Restful web service.
